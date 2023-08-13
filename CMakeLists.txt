@@ -3,4 +3,4 @@ project(SandBox C)
 
 set(CMAKE_C_STANDARD 11)
 
-add_executable(SandBox main.c)
+add_executable(SandBox Second.c)
